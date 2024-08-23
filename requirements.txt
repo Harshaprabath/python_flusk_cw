@@ -1,0 +1,15 @@
+#pip install -r requirements.txt
+
+pip install Flask
+pip install Flask pymongo
+
+Flask
+pymongo[srv]
+Flask-PyMongo
+pip install Flask Flask-PyMongo Flask-Migrate
+pip install Flask-MongoEngine
+pip install Flask-Mail
+pip install Flask Flask-PyMongo Flask-Script
+pip install flask-cors
+pip install reportlab
+pip install Flask Flask-RESTful pymongo
